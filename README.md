@@ -4,8 +4,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
-## Instruction how to run the project
+## Instructions on how to run the project
 
-1. clone project
-2. npm install
-3. npm run dev
+1. clone project with 'clone https://github.com/nigusz/contact-management.git'
+2. cd contact-management
+3. npm install
+4. npm run dev
